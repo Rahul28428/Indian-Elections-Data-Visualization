@@ -49,8 +49,8 @@ pip install -r requirements.txt
 
 
 ## Contributors
-1. Rahul Barodia (B20CS047) 
-2. Agnibha Burman Roy (B20CS099)
+1. Rahul Barodia [LinkedIn](https://www.linkedin.com/in/rahul-barodia/)
+2. Agnibha Burman Roy [LinkedIn](https://www.linkedin.com/in/rahul-barodia/](https://www.linkedin.com/in/agnibha-burman-roy-14b423200/))
 
 
 
