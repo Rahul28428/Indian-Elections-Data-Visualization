@@ -5,8 +5,7 @@ This repository contains the code for visualizing data related to the Indian Lok
 ## Github Repo Link 
 https://github.com/Rahul28428/B20CS047_B20CS099_DV_Mini_Project
 
-## Demo Link
-https://github.com/Rahul28428/Indian-Elections-Data-Visualization/blob/main/Demo.mp4
+[![Demo Video](https://github.com/Rahul28428/Indian-Elections-Data-Visualization/blob/main/thumbnail.png)](https://github.com/Rahul28428/Indian-Elections-Data-Visualization/blob/main/Demo.mp4)
 
 ## About the Project
 
