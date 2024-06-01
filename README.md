@@ -5,6 +5,9 @@ This repository contains the code for visualizing data related to the Indian Lok
 ## Github Repo Link 
 https://github.com/Rahul28428/B20CS047_B20CS099_DV_Mini_Project
 
+## Demo Link
+
+
 ## About the Project
 
 The project aims to provide insights and analysis on various aspects of the Indian Lok Sabha Elections using data visualization techniques. It covers a wide range of topics including party performance, state-wise analysis, seat distribution by category, voter turnout, election history reports, and sentimental analysis.
