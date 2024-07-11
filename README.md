@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Contributors
 1. Rahul Barodia [LinkedIn](https://www.linkedin.com/in/rahul-barodia/)
-2. Agnibha Burman Roy [LinkedIn](https://www.linkedin.com/in/rahul-barodia/](https://www.linkedin.com/in/agnibha-burman-roy-14b423200/))
+2. Agnibha Burman Roy [LinkedIn](https://www.linkedin.com/in/agnibha-burman-roy-14b423200/)
 
 
 
